@@ -2,36 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pavan Uttarkar 
     - name: Languages
-      value: English, German
+      value: English, Kannada, Marathi, Hindi, Sanskrith
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: PhD Candidate
+      institution: Swinburne University of Technology, Hawthorn VIC 3122, Australia 
       year: 1905
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - title: Probing the progenitor environments of fast radio bursts 
+    - title: 
+      institution: Siddaganga Institute of Technology, Tumakuru, KA, India 
+      year: 2015-2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title:  
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
@@ -41,9 +31,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: IASc-INSA-NASI Summer Research Fellowship
+      institution: National Centre for Radio Astrophysics (NCRA)
+      year: 2017
       description:
         - Description 1.
         - Description 2.
