@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>
+subtitle: <a href='#'>about</a>
 
 #Affiliations
 
