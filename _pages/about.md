@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+{::comment}
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+{:/comment}
 
 profile:
   align: right
