@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>about</a>
+subtitle: <a href='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-7ObUhNOFAxWbXGwGHRq2BisQFnoECBQQAQ&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fresearch%2Fcentres-groups-clinics%2Fcentre-for-astrophysics-supercomputing%2F&usg=AOvVaw0LctEktzOYh_EzKo7tZGbW&opi=89978449'>Affilation</a> Swinburne University of Technology, VIC, Australia
 
 #Affiliations
 
@@ -11,9 +11,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>PhD candidate at </p>
+    <p>Centre for Astrophysics and Supercomputing</p>
     <p>Swinburne University of Technology</p>
-    <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
-    <p>Hawthorn VIC 3122, Australia</p>
+#    <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
+#    <p>Hawthorn VIC 3122, Australia</p>
 
 
 news: false #true # includes a list of news items
