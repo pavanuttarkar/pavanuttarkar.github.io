@@ -4,8 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affilation</a> Swinburne University of Technology, VIC, Australia
 
-#Affiliations
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -14,8 +12,8 @@ profile:
     <p>PhD candidate at </p>
     <p>Centre for Astrophysics and Supercomputing</p>
     <p>Swinburne University of Technology</p>
-#    <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
-#    <p>Hawthorn VIC 3122, Australia</p>
+    <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
+    <p>Hawthorn VIC 3122, Australia</p>
 
 
 news: false #true # includes a list of news items
