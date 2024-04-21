@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-7ObUhNOFAxWbXGwGHRq2BisQFnoECBQQAQ&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fresearch%2Fcentres-groups-clinics%2Fcentre-for-astrophysics-supercomputing%2F&usg=AOvVaw0LctEktzOYh_EzKo7tZGbW&opi=89978449'>Affilation</a> Swinburne University of Technology, VIC, Australia
+subtitle: <a href='#'>Affilation</a> Swinburne University of Technology, VIC, Australia
 
 #Affiliations
 
