@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affilation</a> Swinburne University of Technology, VIC, Australia
+subtitle: <a href='https://www.swinburne.edu.au/'>Swinburne University of Technology, VIC, Australia</a>
 
 profile:
   align: right
