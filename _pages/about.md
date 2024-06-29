@@ -15,7 +15,6 @@ profile:
     <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
     <p>Hawthorn VIC 3122, Australia</p>
 
-
 news: false #true # includes a list of news items
 latest_posts: false #true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
