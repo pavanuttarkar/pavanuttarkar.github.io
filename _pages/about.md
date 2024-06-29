@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> Pavan Uttarkar</p>
     <p>Centre for Astrophysics and Supercomputing</p>
     <p>Swinburne University of Technology</p>
     <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
