@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
+{::comment}
 subtitle: <a href='https://www.swinburne.edu.au/'>Swinburne University of Technology, VIC, Australia</a>
+{:/comment}
 
 profile:
   align: right
@@ -15,6 +17,7 @@ profile:
     <p>AMDC, 5 Hawthorn Campus, 453 Burwood Rd</p>
     <p>Hawthorn VIC 3122, Australia</p>
 
+
 news: false #true # includes a list of news items
 latest_posts: false #true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am Pavan Uttarkar, a third-year PhD candidate at the Swinburne University of Technology, Hawthorn, VIC, Australia. I was trained as an engineer but decided to turn my engineering skills to radio astronomy. I predominantly work in time-domain radio astronomy, specifically in fast radio bursts (FRBs), which are millisecond duration bursts whose origin is unknown (as of editing this web page!). My interest lies in understanding the circumburst environment of FRBs using their polarimetric properties as probes. To achieve this, I use data from many unique radio telescope facilities around the world, e.g., Parkes/Murriyang Ultra Wideband Low (UWL), the Australian Square Kilometer Array Pathfinder (ASKAP), the Australia Telescope Compact Array (ATCA), the Green Bank Telescope (GBT). Some of my primary research focus during my PhD is to understand the dichotomy of the repeating and non-repeating FRBs using their spectral depolarisation properties, help commission a novel fast imaging instrument on ASKAP for FRB detections (CRAFT Coherent; CRACO) and follow-up potential repeaters. 
+I am Pavan Uttarkar, a third-year PhD candidate at the <a href='https://www.swinburne.edu.au/'>Swinburne University of Technology, Hawthorn, VIC, Australia</a>. I was trained as an engineer but decided to turn my engineering skills to radio astronomy. I predominantly work in time-domain radio astronomy, specifically in fast radio bursts (FRBs), which are millisecond duration bursts whose origin is unknown (as of editing this web page!). My interest lies in understanding the circumburst environment of FRBs using their polarimetric properties as probes. To achieve this, I use data from many unique radio telescope facilities around the world, e.g., Parkes/Murriyang Ultra Wideband Low (UWL), the Australian Square Kilometer Array Pathfinder (ASKAP), the Australia Telescope Compact Array (ATCA), the Green Bank Telescope (GBT). Some of my primary research focus during my PhD is to understand the dichotomy of the repeating and non-repeating FRBs using their spectral depolarisation properties, help commission a novel fast imaging instrument on ASKAP for FRB detections (CRAFT Coherent; CRACO) and follow-up potential repeaters. 
 
 Messing with anything electronics has been my lifeblood since childhood, and I have always had a keen interest in astronomy - thanks to my older sister, who inculcated this interest to begin with! Radio astronomy perfectly combines my love of astronomy and electronics, and provides a unique opportunity to work on instrumentation and astronomy! 
 
