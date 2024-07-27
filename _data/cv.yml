@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Pavan Uttarkar 
-    - name: Languages
-      value: English, Kannada, Marathi, Hindi, Sanskrith
+   - name: Research interests    
+      value: Transients, fast radio bursts (FRBs), radio interferometry, radio instrumentation
 
 - title: Education
   type: time_table
@@ -12,8 +12,7 @@
     - title: PhD Candidate
       institution: Swinburne University of Technology, Hawthorn VIC 3122, Australia 
       year: 2022
-      description:
-        - title: Probing the progenitor environments of fast radio bursts 
+      description: Probing the progenitor environments of fast radio bursts 
     - title: Bachelor of Engineering 
       institution: Siddaganga Institute of Technology, Tumakuru, KA, India 
       year: 2015-2019
