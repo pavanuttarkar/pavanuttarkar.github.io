@@ -6,6 +6,7 @@
     - name: Research interests    
       value: Transients, fast radio bursts (FRBs), radio interferometry, radio instrumentation
 
+
 - title: Education
   type: time_table
   contents:
@@ -22,13 +23,13 @@
   type: time_table
   contents:
     - title: Visiting Research Student
-      institution: Raman Research Institute, Bengaluru, India
+      institution: Raman Research Institute (RRI), Bengaluru, India
       year: 2019 - 2022
       description:
         - Design and Implementation of Low Frequency Observational Setup
-        - Sky Watch Network Array (SWAN)
+        - Software correlator for Sky Watch Network Array (SWAN)
     - title: IASc-INSA-NASI Summer Research Fellowship
-      institution: Raman Research Institute, Bengaluru, India  
+      institution: Raman Research Institute (RRI), Bengaluru, India  
       year: 2018
       description:
         - Implementing imaging pipeline for Sky Watch Network Array (SWAN)
